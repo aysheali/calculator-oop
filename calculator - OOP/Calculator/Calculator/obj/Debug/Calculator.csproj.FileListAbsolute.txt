@@ -1,0 +1,9 @@
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ayse\Desktop\calculator - OOP\Calculator\Calculator\obj\Debug\Calculator.pdb
